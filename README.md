@@ -40,10 +40,6 @@ This fix makes stateful sequence modeling stable, predictable, and production-re
 - Class-wide control via `TBase.UseStateful`, `UseReturnSequences`, `UseBatchInputShape`
 - Tested example with correct loss convergence over 500 epochs
 
-## 📷 Example output
-
-![training output](docs/training_output.png)
-
 ## 📜 License
 
 MIT
