@@ -43,3 +43,8 @@ This fix makes stateful sequence modeling stable, predictable, and production-re
 ## 📜 License
 
 MIT
+
+
+
+Based on Keras4Delphi by Pigrecos (MIT licensed).
+This repository includes modifications and fixes by Roelof Emmerink.
